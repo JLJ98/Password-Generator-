@@ -21,7 +21,7 @@ Once you have answered all the questions you will be prompted with a password.
 ## Links
 
 ![Screenshot of Password Generator Website](./assets/Images/webpage_preview.png)
-![Link to Deployed App](https://jlj98.github.io/Password-Generator-/)
+Link to Deployed App: (https://jlj98.github.io/Password-Generator-/)
 
 ## Credits
 
